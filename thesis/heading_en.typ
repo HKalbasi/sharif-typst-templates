@@ -17,7 +17,7 @@
   #v(2em)
 
   #text(size: 1.5em)[
-    #strong[A decompiler based on large language models]
+    #strong[Title of the thesis]
   ]
 
   #v(2em)
